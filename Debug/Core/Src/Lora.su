@@ -1,0 +1,4 @@
+../Core/Src/Lora.c:16:19:port_debug_receive_wait	40	static
+../Core/Src/Lora.c:22:6:port_debug_print	32	static
+../Core/Src/Lora.c:30:19:port_lora_receive_wait	40	static
+../Core/Src/Lora.c:36:6:port_lora_print	32	static
