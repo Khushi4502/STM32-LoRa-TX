@@ -30,7 +30,7 @@ It continuously sends packets with an incrementing counter and prints debug mess
 
 ##  Pin Diagram
 
-
+<img width="633" height="549" alt="Screenshot 2025-08-16 222231" src="https://github.com/user-attachments/assets/ca701bd7-6a42-4c69-86d4-303eea99d6ca" />
 
 *(This shows the STM32L051C8Tx with LoRa connections)*
 
